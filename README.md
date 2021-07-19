@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jooyyy&show_icons=true&theme=vue" alt="Joy's github stats" />
+
 
 <!--
 **jooyyy/jooyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jooyyy&show_icons=true&theme=vue" alt="Joy's github stats" />
 -->
